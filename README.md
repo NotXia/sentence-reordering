@@ -8,7 +8,7 @@ Project for the Deep Learning course at the University of Bologna (A.Y. 2023-202
 
 ## Description
 
-Autoregressive encoder-decoder Transformer model implemented in Keras and trained to reorder a shuffled text sequence.
+Autoregressive Transformer encoder-decoder model implemented in Keras and trained to reorder a shuffled text sequence.
 
 
 ## Results
